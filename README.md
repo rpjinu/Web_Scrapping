@@ -17,4 +17,4 @@
 10.time: For adding delays between requests to avoid overwhelming servers.\
 11.retries: For handling retries on failed HTTP requests to make your scraper more robust.
 
-<img src="" width="1200">
+<img src="https://github.com/rpjinu/Web_Scrapping/blob/main/web_scraping_libraries.png" width="1200">
